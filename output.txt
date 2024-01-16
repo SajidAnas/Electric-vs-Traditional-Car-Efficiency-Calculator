@@ -1,0 +1,30 @@
+Hello, this program will help you determine how many kilometers it will take for an electric car to be more cost efficient (or inefficient) than a regular car.
+
+Please enter the cost of the electric car you wish to purchase (in CAD): 40000
+Please enter the cost of one KWh of electricity (in CAD): 0.06
+Please enter the efficiency of the electric car you wish to purchase (in Km/KWh): 5
+
+Please enter the cost of the regular car you wish to purchase (in CAD): 20000
+Please enter the cost of 1 liter of gas (in CAD): 1.69
+Please enter the cost efficiency of the regular car you wish to purchase (in Km/L): 10 
+The electric car will be more cost efficient after 127388.54km.
+That is approximately 3059 days for the average Canadian driver.
+
+Please enter 'n' if you wish to quit and any other key if you wish to use the program again: 1
+
+
+
+Please enter the cost of the electric car you wish to purchase (in CAD): 20000
+Please enter the cost of one KWh of electricity (in CAD): 2
+Please enter the efficiency of the electric car you wish to purchase (in Km/KWh): 1
+
+Please enter the cost of the regular car you wish to purchase (in CAD): 40000
+Please enter the cost of 1 liter of gas (in CAD): 1
+Please enter the cost efficiency of the regular car you wish to purchase (in Km/L): 1
+
+The electric car will be more cost efficient until 20000.0km.
+That is approximately 480 days for the average Canadian driver.
+
+Please enter 'n' if you wish to quit and any other key if you wish to use the program again: n
+
+Thank you for using this program! Goodbye!
